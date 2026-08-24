@@ -91,23 +91,9 @@ Recommended KPI cards:
 - Active Customers
 - Average Order Value
 
-Recommended slicers:
-- Date
-- City
-- Store
-- Category
-- Customer Type
 
-## Important Portfolio Note
 
-This project is designed to demonstrate the candidate's ability to move from raw data to validated analysis and business recommendations. All data is synthetic.
+## Important Note
 
-## Interview Summary
+This project is designed to demonstrate the my ability to move from raw data to validated analysis and business recommendations. All data is synthetic.
 
-**60-second explanation:**
-
-"I built an end-to-end retail analytics solution to simulate how a multi-branch organization can turn operational sales and customer data into business insights. I generated realistic Saudi retail data, introduced common data-quality issues, and built a Python/Pandas pipeline to clean and validate the data. I then modeled the data for SQL analysis, including customer, product and store performance, profitability, monthly trends and repeat-customer analysis. Finally, I prepared Power BI-ready outputs for management dashboards. I also added anomaly detection to flag unusual daily sales patterns. The main goal was to demonstrate that I can work from raw data through data quality and analysis to actionable business insights."
-
-## Disclaimer
-
-This is an independent portfolio project. It is not affiliated with, sponsored by, or based on confidential data from Alesayi Holding or any other company.
