@@ -1,0 +1,181 @@
+product_id,product_name,category,subcategory,brand,cost,selling_price
+P0001,Brand A Coffee 1,Food & Beverage,Coffee,Brand A,816.19,1041.6
+P0002,Brand D Packaged Food 2,Food & Beverage,Packaged Food,Brand D,1482.74,1938.95
+P0003,Brand D Television 3,Electronics,Television,Brand D,124.23,186.86
+P0004,Brand E Men 4,Fashion,Men,Brand E,644.6,1027.06
+P0005,Brand E Packaged Food 5,Food & Beverage,Packaged Food,Brand E,358.4,472.42
+P0006,Brand A Laptop 6,Electronics,Laptop,Brand A,1232.66,1795.93
+P0007,Brand B Coffee 7,Food & Beverage,Coffee,Brand B,673.12,888.12
+P0008,Brand A Laptop 8,Electronics,Laptop,Brand A,861.51,1049.34
+P0009,Brand C Accessories 9,Fashion,Accessories,Brand C,1500.49,2149.91
+P0010,Brand E Microwave 10,Home Appliances,Microwave,Brand E,1450.53,1861.43
+P0011,Brand E Mobile 11,Electronics,Mobile,Brand E,260.16,314.19
+P0012,Brand E Audio 12,Electronics,Audio,Brand E,1200.08,1722.63
+P0013,Brand C Coffee 13,Food & Beverage,Coffee,Brand C,1028.05,1218.57
+P0014,Brand E Laptop 14,Electronics,Laptop,Brand E,853.26,1164.0
+P0015,Brand D Coffee 15,Food & Beverage,Coffee,Brand D,1000.91,1362.51
+P0016,Brand A Microwave 16,Home Appliances,Microwave,Brand A,791.72,960.58
+P0017,Private Label Small Appliance 17,Home Appliances,Small Appliance,Private Label,428.75,495.76
+P0018,Brand B Accessories 18,Electronics,Accessories,Brand B,1194.83,1625.24
+P0019,Brand D Household 19,Food & Beverage,Household,Brand D,737.43,1103.35
+P0020,Brand A Mobile 20,Electronics,Mobile,Brand A,171.19,247.32
+P0021,Brand A Microwave 21,Home Appliances,Microwave,Brand A,906.87,1079.09
+P0022,Brand C Kids 22,Fashion,Kids,Brand C,692.03,863.3
+P0023,Brand C Footwear 23,Fashion,Footwear,Brand C,166.89,196.5
+P0024,Private Label Beverages 24,Food & Beverage,Beverages,Private Label,1262.48,1556.94
+P0025,Brand E Beverages 25,Food & Beverage,Beverages,Brand E,1293.23,1694.56
+P0026,Brand A Television 26,Electronics,Television,Brand A,1625.66,2134.82
+P0027,Brand B Audio 27,Electronics,Audio,Brand B,1046.8,1255.1
+P0028,Brand E Snacks 28,Food & Beverage,Snacks,Brand E,1297.84,1690.65
+P0029,Brand D Men 29,Fashion,Men,Brand D,1173.23,1367.33
+P0030,Brand A Microwave 30,Home Appliances,Microwave,Brand A,894.24,1125.91
+P0031,Brand A Audio 31,Electronics,Audio,Brand A,1061.88,1270.73
+P0032,Brand D Household 32,Food & Beverage,Household,Brand D,630.9,868.58
+P0033,Private Label Television 33,Electronics,Television,Private Label,873.32,1290.96
+P0034,Brand C Mobile 34,Electronics,Mobile,Brand C,888.37,1396.45
+P0035,Brand C Kids 35,Fashion,Kids,Brand C,487.89,614.63
+P0036,Brand C Small Appliance 36,Home Appliances,Small Appliance,Brand C,48.69,73.2
+P0037,Brand A Coffee 37,Food & Beverage,Coffee,Brand A,1001.72,1176.04
+P0038,Brand B Men 38,Fashion,Men,Brand B,1190.37,1722.72
+P0039,Brand A Beverages 39,Food & Beverage,Beverages,Brand A,1649.66,2011.43
+P0040,Brand D Television 40,Electronics,Television,Brand D,673.95,1014.6
+P0041,Brand B Household 41,Food & Beverage,Household,Brand B,1715.69,2132.98
+P0042,Brand B Small Appliance 42,Home Appliances,Small Appliance,Brand B,1685.52,2013.28
+P0043,Brand C Mobile 43,Electronics,Mobile,Brand C,1786.35,2756.02
+P0044,Private Label Accessories 44,Fashion,Accessories,Private Label,1609.27,2159.81
+P0045,Brand E Refrigerator 45,Home Appliances,Refrigerator,Brand E,1194.37,1525.67
+P0046,Brand E Audio 46,Electronics,Audio,Brand E,479.8,753.89
+P0047,Brand A Television 47,Electronics,Television,Brand A,1497.69,1782.65
+P0048,Brand D Mobile 48,Electronics,Mobile,Brand D,1575.47,1900.61
+P0049,Brand E Small Appliance 49,Home Appliances,Small Appliance,Brand E,1749.57,2333.36
+P0050,Brand A Accessories 50,Electronics,Accessories,Brand A,421.08,497.89
+P0051,Brand A Accessories 51,Fashion,Accessories,Brand A,916.33,1309.99
+P0052,Brand B Kids 52,Fashion,Kids,Brand B,1449.38,2088.46
+P0053,Brand A Accessories 53,Fashion,Accessories,Brand A,231.52,362.41
+P0054,Brand B Small Appliance 54,Home Appliances,Small Appliance,Brand B,884.57,1250.0
+P0055,Brand B Coffee 55,Food & Beverage,Coffee,Brand B,1665.41,1906.51
+P0056,Brand D Men 56,Fashion,Men,Brand D,199.56,236.58
+P0057,Private Label Refrigerator 57,Home Appliances,Refrigerator,Private Label,1076.92,1689.51
+P0058,Brand C Coffee 58,Food & Beverage,Coffee,Brand C,1414.73,1616.16
+P0059,Brand E Mobile 59,Electronics,Mobile,Brand E,1436.3,1752.63
+P0060,Brand D Microwave 60,Home Appliances,Microwave,Brand D,1563.25,2161.6
+P0061,Brand C Refrigerator 61,Home Appliances,Refrigerator,Brand C,772.33,1087.03
+P0062,Brand C Beverages 62,Food & Beverage,Beverages,Brand C,453.63,554.24
+P0063,Brand E Accessories 63,Fashion,Accessories,Brand E,198.45,230.04
+P0064,Brand A Women 64,Fashion,Women,Brand A,1486.15,1859.28
+P0065,Private Label Accessories 65,Electronics,Accessories,Private Label,306.3,380.04
+P0066,Brand A Laptop 66,Electronics,Laptop,Brand A,47.85,55.28
+P0067,Brand A Accessories 67,Electronics,Accessories,Brand A,1068.15,1519.39
+P0068,Brand B Small Appliance 68,Home Appliances,Small Appliance,Brand B,913.1,1399.39
+P0069,Brand A Coffee 69,Food & Beverage,Coffee,Brand A,334.88,409.17
+P0070,Brand D Audio 70,Electronics,Audio,Brand D,755.11,870.75
+P0071,Brand D Small Appliance 71,Home Appliances,Small Appliance,Brand D,191.99,289.45
+P0072,Private Label Laptop 72,Electronics,Laptop,Private Label,187.41,283.67
+P0073,Private Label Beverages 73,Food & Beverage,Beverages,Private Label,1445.63,2134.29
+P0074,Brand E Footwear 74,Fashion,Footwear,Brand E,250.85,338.7
+P0075,Private Label Small Appliance 75,Home Appliances,Small Appliance,Private Label,838.41,1075.05
+P0076,Brand B Women 76,Fashion,Women,Brand B,260.19,344.28
+P0077,Brand B Microwave 77,Home Appliances,Microwave,Brand B,667.85,851.05
+P0078,Brand C Air Conditioner 78,Home Appliances,Air Conditioner,Brand C,1237.48,1541.43
+P0079,Private Label Packaged Food 79,Food & Beverage,Packaged Food,Private Label,870.83,1095.9
+P0080,Private Label Small Appliance 80,Home Appliances,Small Appliance,Private Label,1178.13,1756.15
+P0081,Brand D Microwave 81,Home Appliances,Microwave,Brand D,525.8,763.21
+P0082,Brand E Laptop 82,Electronics,Laptop,Brand E,1550.69,1833.72
+P0083,Brand A Footwear 83,Fashion,Footwear,Brand A,1309.03,1525.62
+P0084,Brand A Packaged Food 84,Food & Beverage,Packaged Food,Brand A,1726.4,2569.93
+P0085,Brand E Kids 85,Fashion,Kids,Brand E,1433.26,2260.54
+P0086,Brand D Audio 86,Electronics,Audio,Brand D,180.14,250.27
+P0087,Brand D Television 87,Electronics,Television,Brand D,1034.65,1363.46
+P0088,Brand E Microwave 88,Home Appliances,Microwave,Brand E,1440.65,1915.66
+P0089,Private Label Men 89,Fashion,Men,Private Label,224.32,264.04
+P0090,Brand D Laptop 90,Electronics,Laptop,Brand D,759.31,1118.81
+P0091,Brand C Footwear 91,Fashion,Footwear,Brand C,1618.08,2373.45
+P0092,Brand C Audio 92,Electronics,Audio,Brand C,572.85,682.76
+P0093,Private Label Television 93,Electronics,Television,Private Label,793.85,1017.32
+P0094,Brand D Men 94,Fashion,Men,Brand D,1685.69,2489.49
+P0095,Brand C Refrigerator 95,Home Appliances,Refrigerator,Brand C,1776.07,2561.46
+P0096,Brand A Coffee 96,Food & Beverage,Coffee,Brand A,1532.46,2145.22
+P0097,Brand D Laptop 97,Electronics,Laptop,Brand D,1238.11,1412.08
+P0098,Brand E Microwave 98,Home Appliances,Microwave,Brand E,538.69,708.08
+P0099,Brand B Refrigerator 99,Home Appliances,Refrigerator,Brand B,1654.01,2443.64
+P0100,Private Label Mobile 100,Electronics,Mobile,Private Label,1583.77,1964.53
+P0101,Brand A Snacks 101,Food & Beverage,Snacks,Brand A,1798.4,2543.99
+P0102,Brand A Footwear 102,Fashion,Footwear,Brand A,1615.69,1851.88
+P0103,Brand A Laptop 103,Electronics,Laptop,Brand A,1400.41,1690.36
+P0104,Brand D Beverages 104,Food & Beverage,Beverages,Brand D,74.73,85.06
+P0105,Brand D Accessories 105,Electronics,Accessories,Brand D,1444.65,1766.13
+P0106,Brand A Beverages 106,Food & Beverage,Beverages,Brand A,1443.73,2260.16
+P0107,Brand E Household 107,Food & Beverage,Household,Brand E,1509.98,1736.49
+P0108,Brand A Television 108,Electronics,Television,Brand A,913.11,1330.58
+P0109,Private Label Men 109,Fashion,Men,Private Label,287.83,417.75
+P0110,Brand B Television 110,Electronics,Television,Brand B,1280.73,2048.69
+P0111,Brand A Kids 111,Fashion,Kids,Brand A,1113.19,1281.02
+P0112,Brand E Coffee 112,Food & Beverage,Coffee,Brand E,319.9,373.65
+P0113,Private Label Mobile 113,Electronics,Mobile,Private Label,830.82,1228.77
+P0114,Brand D Accessories 114,Fashion,Accessories,Brand D,269.78,425.5
+P0115,Brand D Air Conditioner 115,Home Appliances,Air Conditioner,Brand D,1262.6,1775.31
+P0116,Brand A Snacks 116,Food & Beverage,Snacks,Brand A,919.95,1187.11
+P0117,Brand A Refrigerator 117,Home Appliances,Refrigerator,Brand A,250.03,309.56
+P0118,Brand C Microwave 118,Home Appliances,Microwave,Brand C,1103.67,1543.6
+P0119,Brand C Refrigerator 119,Home Appliances,Refrigerator,Brand C,399.56,549.57
+P0120,Brand A Small Appliance 120,Home Appliances,Small Appliance,Brand A,758.94,1002.93
+P0121,Brand D Television 121,Electronics,Television,Brand D,1022.73,1466.32
+P0122,Brand D Kids 122,Fashion,Kids,Brand D,576.02,853.02
+P0123,Brand C Refrigerator 123,Home Appliances,Refrigerator,Brand C,1130.56,1437.95
+P0124,Brand E Small Appliance 124,Home Appliances,Small Appliance,Brand E,1596.66,2492.74
+P0125,Brand D Microwave 125,Home Appliances,Microwave,Brand D,1441.77,1806.18
+P0126,Brand C Beverages 126,Food & Beverage,Beverages,Brand C,217.38,252.4
+P0127,Brand A Household 127,Food & Beverage,Household,Brand A,512.29,645.91
+P0128,Brand B Audio 128,Electronics,Audio,Brand B,1339.42,1528.7
+P0129,Private Label Packaged Food 129,Food & Beverage,Packaged Food,Private Label,676.35,805.12
+P0130,Brand A Footwear 130,Fashion,Footwear,Brand A,663.21,1051.37
+P0131,Brand E Coffee 131,Food & Beverage,Coffee,Brand E,566.62,808.06
+P0132,Brand C Footwear 132,Fashion,Footwear,Brand C,1157.19,1319.17
+P0133,Brand D Audio 133,Electronics,Audio,Brand D,303.11,362.2
+P0134,Private Label Household 134,Food & Beverage,Household,Private Label,1005.19,1518.78
+P0135,Brand A Packaged Food 135,Food & Beverage,Packaged Food,Brand A,812.36,1044.26
+P0136,Brand E Accessories 136,Electronics,Accessories,Brand E,786.46,1037.58
+P0137,Brand B Mobile 137,Electronics,Mobile,Brand B,1633.72,1881.32
+P0138,Brand B Television 138,Electronics,Television,Brand B,887.45,1219.82
+P0139,Brand A Refrigerator 139,Home Appliances,Refrigerator,Brand A,446.16,675.32
+P0140,Brand D Kids 140,Fashion,Kids,Brand D,1209.66,1774.62
+P0141,Brand C Audio 141,Electronics,Audio,Brand C,975.75,1232.01
+P0142,Brand C Beverages 142,Food & Beverage,Beverages,Brand C,1385.84,2104.62
+P0143,Private Label Air Conditioner 143,Home Appliances,Air Conditioner,Private Label,1060.95,1610.11
+P0144,Brand C Air Conditioner 144,Home Appliances,Air Conditioner,Brand C,961.23,1127.27
+P0145,Private Label Small Appliance 145,Home Appliances,Small Appliance,Private Label,1139.19,1366.18
+P0146,Brand B Washing Machine 146,Home Appliances,Washing Machine,Brand B,54.43,85.2
+P0147,Brand B Air Conditioner 147,Home Appliances,Air Conditioner,Brand B,1081.27,1231.38
+P0148,Brand E Television 148,Electronics,Television,Brand E,1144.45,1831.91
+P0149,Brand C Accessories 149,Fashion,Accessories,Brand C,1372.96,2128.18
+P0150,Private Label Women 150,Fashion,Women,Private Label,1409.79,2153.56
+P0151,Brand E Laptop 151,Electronics,Laptop,Brand E,797.76,1083.63
+P0152,Private Label Kids 152,Fashion,Kids,Private Label,1772.39,2201.56
+P0153,Brand E Accessories 153,Fashion,Accessories,Brand E,630.22,743.36
+P0154,Brand E Laptop 154,Electronics,Laptop,Brand E,886.56,1421.32
+P0155,Private Label Washing Machine 155,Home Appliances,Washing Machine,Private Label,746.72,1108.48
+P0156,Brand D Mobile 156,Electronics,Mobile,Brand D,1445.69,2260.38
+P0157,Brand A Beverages 157,Food & Beverage,Beverages,Brand A,677.14,780.71
+P0158,Brand E Accessories 158,Electronics,Accessories,Brand E,1286.73,1895.5
+P0159,Brand E Packaged Food 159,Food & Beverage,Packaged Food,Brand E,1443.56,1664.49
+P0160,Brand D Television 160,Electronics,Television,Brand D,1546.04,1759.2
+P0161,Brand E Washing Machine 161,Home Appliances,Washing Machine,Brand E,63.0,81.22
+P0162,Brand E Packaged Food 162,Food & Beverage,Packaged Food,Brand E,435.41,661.44
+P0163,Private Label Microwave 163,Home Appliances,Microwave,Private Label,545.11,750.31
+P0164,Brand B Refrigerator 164,Home Appliances,Refrigerator,Brand B,1596.94,1921.19
+P0165,Brand C Audio 165,Electronics,Audio,Brand C,1294.57,1932.0
+P0166,Brand B Packaged Food 166,Food & Beverage,Packaged Food,Brand B,740.22,876.59
+P0167,Private Label Men 167,Fashion,Men,Private Label,1264.58,1743.66
+P0168,Private Label Air Conditioner 168,Home Appliances,Air Conditioner,Private Label,899.48,1064.39
+P0169,Brand A Refrigerator 169,Home Appliances,Refrigerator,Brand A,371.54,424.42
+P0170,Brand D Small Appliance 170,Home Appliances,Small Appliance,Brand D,624.49,810.29
+P0171,Brand E Household 171,Food & Beverage,Household,Brand E,978.13,1213.53
+P0172,Brand B Beverages 172,Food & Beverage,Beverages,Brand B,592.36,920.32
+P0173,Brand E Small Appliance 173,Home Appliances,Small Appliance,Brand E,1067.43,1503.2
+P0174,Brand B Accessories 174,Electronics,Accessories,Brand B,587.26,699.46
+P0175,Brand B Snacks 175,Food & Beverage,Snacks,Brand B,1015.07,1505.84
+P0176,Brand C Packaged Food 176,Food & Beverage,Packaged Food,Brand C,862.5,1388.05
+P0177,Brand E Women 177,Fashion,Women,Brand E,1625.57,2407.44
+P0178,Brand D Television 178,Electronics,Television,Brand D,192.39,270.88
+P0179,Brand D Packaged Food 179,Food & Beverage,Packaged Food,Brand D,785.02,901.62
+P0180,Brand A Packaged Food 180,Food & Beverage,Packaged Food,Brand A,83.53,102.36

@@ -1,0 +1,13 @@
+{
+  "project": "Saudi Retail Operations Analytics",
+  "raw_sales_rows": 120250,
+  "clean_sales_rows": 120000,
+  "customers": 6000,
+  "products": 180,
+  "stores": 14,
+  "date_range": [
+    "2025-01-01",
+    "2026-06-30"
+  ],
+  "note": "Synthetic data; no proprietary company data."
+}

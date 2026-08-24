@@ -1,0 +1,15 @@
+store_id,store_name,city,region,store_type
+S001,Jeddah Branch 1,Jeddah,Western,Retail Store
+S002,Riyadh Branch 1,Riyadh,Central,Express
+S003,Dammam Branch 1,Dammam,Eastern,Large Format
+S004,Makkah Branch 1,Makkah,Western,Large Format
+S005,Madinah Branch 1,Madinah,Western,Large Format
+S006,Abha Branch 1,Abha,Southern,Express
+S007,Khobar Branch 1,Khobar,Eastern,Retail Store
+S008,Jeddah Branch 2,Jeddah,Western,Express
+S009,Riyadh Branch 2,Riyadh,Central,Retail Store
+S010,Dammam Branch 2,Dammam,Eastern,Retail Store
+S011,Makkah Branch 2,Makkah,Western,Large Format
+S012,Madinah Branch 2,Madinah,Western,Express
+S013,Abha Branch 2,Abha,Southern,Express
+S014,Khobar Branch 2,Khobar,Eastern,Express
