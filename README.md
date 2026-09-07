@@ -1,6 +1,8 @@
 # Saudi Retail Operations Analytics
 
 > **End-to-end retail analytics project built to demonstrate how raw operational data can be transformed into reliable business insights using Python, SQL and Power BI.**
+> <img width="1279" height="718" alt="image" src="https://github.com/user-attachments/assets/0daf0ad8-f7ca-4a24-8664-c5851eac6917" />
+
 
 ## 📊 Project Overview
 
